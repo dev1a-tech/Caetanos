@@ -1,2 +1,0 @@
-# Caetanos
-Barber shop
